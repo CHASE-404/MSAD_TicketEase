@@ -1,0 +1,646 @@
+C:\Users\Lara lane\OneDrive\Desktop\SCHOOL2223\MSAD\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.AssemblyReference.cache
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.AssemblyReference.cache
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketInformationForm.resources
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketsForm.resources
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsForm.resources
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.DashboardForm.resources
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ForgotPasswordForm.resources
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ConcertTicketingSystem.GetStartedForm.resources
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.LoginForm.resources
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ProfileForm.resources
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.Properties.Resources.resources
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.RegisterForm.resources
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.SearchForm.resources
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewNotificationForm.resources
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewSearchHistoryForm.resources
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.GenerateResource.cache
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.GeneratedMSBuildEditorConfig.editorconfig
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfoInputs.cache
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfo.cs
+Z:\L25X12W06\JULY 12.2, 2023 BY LEAHLYN-20230712T042916Z-001\JULY 12.2, 2023 BY LEAHLYN\Ticket Ease-20230710T221911Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CoreCompileInputs.cache
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.AssemblyReference.cache
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AddConcert.resources
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcerts.resources
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketInformationForm.resources
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketsForm.resources
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsForm.resources
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.DashboardForm.resources
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ForgotPasswordForm.resources
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ConcertTicketingSystem.GetStartedForm.resources
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.LoginForm.resources
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ProfileForm.resources
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.Properties.Resources.resources
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.RegisterForm.resources
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewNotificationForm.resources
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewSearchHistoryForm.resources
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.GenerateResource.cache
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfoInputs.cache
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfo.cs
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CoreCompileInputs.cache
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.exe
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.deps.json
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.runtimeconfig.json
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\refint\Ticket Ease.dll
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.genruntimeconfig.cache
+C:\Users\Light Ship\Desktop\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ref\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.exe
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.deps.json
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.runtimeconfig.json
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.AssemblyReference.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AddConcert.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcerts.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketInformationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketsForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.DashboardForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ForgotPasswordForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ConcertTicketingSystem.GetStartedForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.LoginForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ProfileForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.Properties.Resources.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.RegisterForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewNotificationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewSearchHistoryForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.GenerateResource.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfoInputs.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfo.cs
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CoreCompileInputs.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CopyComplete
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\refint\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.genruntimeconfig.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230714T005702Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ref\Ticket Ease.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.AssemblyReference.cache
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\refint\Ticket Ease.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.exe
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.deps.json
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.runtimeconfig.json
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcerts.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketInformationForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.DashboardForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ForgotPasswordForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ConcertTicketingSystem.GetStartedForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.LoginForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ProfileForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.Properties.Resources.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.RegisterForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.GenerateResource.cache
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfoInputs.cache
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfo.cs
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CoreCompileInputs.cache
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CopyComplete
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.genruntimeconfig.cache
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ref\Ticket Ease.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AddRemoveConcert.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcertsAdmin.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AddConcertLocationDetailsAdmin.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsFormAdmin.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BookedTickets.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.PaymentForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly18\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewNotificationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.exe
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.deps.json
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.runtimeconfig.json
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.AssemblyReference.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AddConcertLocationDetailsAdmin.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AddRemoveConcert.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcerts.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcertsAdmin.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BookedTickets.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketInformationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsFormAdmin.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.DashboardForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ForgotPasswordForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ConcertTicketingSystem.GetStartedForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.LoginForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.PaymentForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ProfileForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.Properties.Resources.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.RegisterForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewNotificationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.GenerateResource.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfoInputs.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfo.cs
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CoreCompileInputs.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CopyComplete
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\refint\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.genruntimeconfig.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230721T131350Z-001\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ref\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.exe
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.deps.json
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.runtimeconfig.json
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.AssemblyReference.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AddConcertLocationDetailsAdmin.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AddRemoveConcert.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcerts.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcertsAdmin.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BookedTickets.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketInformationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsFormAdmin.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.DashboardForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ForgotPasswordForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ConcertTicketingSystem.GetStartedForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.LoginForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.PaymentForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ProfileForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.Properties.Resources.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.RegisterForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewNotificationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.GenerateResource.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfoInputs.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfo.cs
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CoreCompileInputs.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CopyComplete
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\refint\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.genruntimeconfig.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.21 - July 21\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ref\Ticket Ease.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.AssemblyReference.cache
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\refint\Ticket Ease.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.exe
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.deps.json
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.runtimeconfig.json
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AddConcertLocationDetailsAdmin.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcerts.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcertsAdmin.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketInformationForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.DashboardForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ForgotPasswordForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ConcertTicketingSystem.GetStartedForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.LoginForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.PaymentForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ProfileForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.Properties.Resources.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.RegisterForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewNotificationForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.GenerateResource.cache
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfoInputs.cache
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfo.cs
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CoreCompileInputs.cache
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CopyComplete
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.genruntimeconfig.cache
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ref\Ticket Ease.dll
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BookedTicketsForm.resources
+C:\Users\Light Ship\Desktop\TicketEasyJuly23\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsFormAdminn.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.exe
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.deps.json
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.runtimeconfig.json
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.AssemblyReference.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AddConcertLocationDetailsAdmin.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcerts.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcertsAdmin.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BookedTicketsForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketInformationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsFormAdminn.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.DashboardForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ForgotPasswordForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ConcertTicketingSystem.GetStartedForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.LoginForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.PaymentForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ProfileForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.Properties.Resources.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.RegisterForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewNotificationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.GenerateResource.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfoInputs.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfo.cs
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CoreCompileInputs.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CopyComplete
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\refint\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.genruntimeconfig.cache
+C:\Users\kirby\Downloads\Ticket Ease-20230724T063239Z-001 2\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ref\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.exe
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.deps.json
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.runtimeconfig.json
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.AssemblyReference.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AddConcertLocationDetailsAdmin.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcerts.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BookedTicketsForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketInformationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsFormAdminn.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.DashboardForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ForgotPasswordForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ConcertTicketingSystem.GetStartedForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.LoginForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.PaymentForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ProfileForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.Properties.Resources.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.RegisterForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewNotificationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.GenerateResource.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfoInputs.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfo.cs
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CoreCompileInputs.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CopyComplete
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\refint\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.genruntimeconfig.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.25\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ref\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.AssemblyReference.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AddConcertLocationDetailsAdmin.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcerts.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BookedTicketsForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketInformationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsFormAdminn.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.DashboardForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ForgotPasswordForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ConcertTicketingSystem.GetStartedForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.LoginForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.PaymentForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ProfileForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.Properties.Resources.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.RegisterForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewNotificationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.GenerateResource.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfoInputs.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfo.cs
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CoreCompileInputs.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\refint\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.exe
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.deps.json
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.runtimeconfig.json
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CopyComplete
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.genruntimeconfig.cache
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\ref\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease-v1.25_Late\Ticket Ease\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.PaymentFormGCASH.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.exe
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.deps.json
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.runtimeconfig.json
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.AssemblyReference.cache
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AddConcertLocationDetailsAdmin.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcerts.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BookedTicketsForm.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketInformationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsForm.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsFormAdminn.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.DashboardForm.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ForgotPasswordForm.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\ConcertTicketingSystem.GetStartedForm.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.LoginForm.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.PaymentForm.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.PaymentFormGCASH.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ProfileForm.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.Properties.Resources.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.RegisterForm.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewNotificationForm.resources
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.GenerateResource.cache
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfoInputs.cache
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfo.cs
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CoreCompileInputs.cache
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CopyComplete
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\refint\Ticket Ease.dll
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.genruntimeconfig.cache
+C:\Users\kirby\Downloads\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\ref\Ticket Ease.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.exe
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.deps.json
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.runtimeconfig.json
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.AssemblyReference.cache
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AddConcertLocationDetailsAdmin.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.AvailableConcerts.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BookedTicketsForm.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.BuyTicketInformationForm.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsForm.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ConcertDetailsFormAdminn.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.DashboardForm.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ForgotPasswordForm.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\ConcertTicketingSystem.GetStartedForm.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.LoginForm.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.PaymentForm.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.PaymentFormGCASH.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ProfileForm.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.Properties.Resources.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.RegisterForm.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket_Ease.ViewNotificationForm.resources
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.GenerateResource.cache
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfoInputs.cache
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.AssemblyInfo.cs
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CoreCompileInputs.cache
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.csproj.CopyComplete
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\refint\Ticket Ease.dll
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.pdb
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\Ticket Ease.genruntimeconfig.cache
+C:\Users\kirby\Downloads\Projects\Ticket Ease_final kirk\Ticket Ease\obj\Debug\net6.0-windows\ref\Ticket Ease.dll
